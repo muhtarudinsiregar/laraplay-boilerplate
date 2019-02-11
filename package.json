@@ -21,9 +21,10 @@
         "sass": "^1.15.2",
         "sass-loader": "^7.1.0",
         "vue": "^2.5.17",
-        "vue-template-compiler": "^2.6.4"
+        "vue-template-compiler": "^2.6.5"
     },
     "dependencies": {
-        "admin-lte": "^3.0.0-alpha.2"
+        "@fortawesome/fontawesome-free": "^5.7.1",
+        "admin-lte": "3.0.0-alpha.2"
     }
 }
